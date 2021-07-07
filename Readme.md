@@ -7,4 +7,6 @@ Further improvements can be done by tweaking the paramertes and also using advan
 
 The dataset is used from Kaggle.https://www.kaggle.com/gpreda/covid-world-vaccination-progress 
 
+Further information about Exponential Smoothing can be looked from this link. https://machinelearningmastery.com/exponential-smoothing-for-time-series-forecasting-in-python/
+
 Note-For viewing the notebook, paste the notebook's link on the this page. https://nbviewer.jupyter.org/
