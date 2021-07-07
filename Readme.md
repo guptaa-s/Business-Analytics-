@@ -1,4 +1,5 @@
 This repo contains certificates for Business Analytics course.
+
 This repository also contains a Project which I made after completing the Operation Analytics.
 
 The project is implemented with the help of Exponential Smoothing to forecast the daily vaccines to be administered in July in India.
