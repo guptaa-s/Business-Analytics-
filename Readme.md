@@ -5,4 +5,5 @@ The project is implemented with the help of Exponential Smoothing to forecast th
 Further improvements can be done by tweaking the paramertes and also using advanced Forecasting Techniques.
 
 The dataset is used from Kaggle.https://www.kaggle.com/gpreda/covid-world-vaccination-progress 
+
 Note-For viewing the notebook, paste the notebook's link on the this page. https://nbviewer.jupyter.org/
